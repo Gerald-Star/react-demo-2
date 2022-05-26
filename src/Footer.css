@@ -1,0 +1,9 @@
+.footer-page {
+  text-align: center;
+  font-size: 15px;
+  font-family: monospace;
+  box-sizing: border-box;
+  background-color: grey;
+  padding: 20px;
+  box-shadow: 5px 5px 5px 8px;
+}

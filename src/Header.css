@@ -1,0 +1,36 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 1px 0px 2px 2px;
+
+  
+  
+}
+
+
+.nav-items{
+  list-style: none;
+  display: flex;
+  
+
+}
+
+.nav-items > li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.nav-items >li:hover {
+    color:coral
+}
+
+
+.logo {
+
+width: 50px;
+margin: 5px 5px;
+cursor: pointer;
+
+}
+
