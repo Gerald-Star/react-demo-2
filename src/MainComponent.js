@@ -27,10 +27,24 @@ export default function MainComponent() {
                   React has a syntax called jsx which defines how react is used.
                   If we remove the syntax, it will tell us that react is not defined. <br />
                   
-                  Recommendation for learning and installing react is by reading the react documentaion.
+                  Recommendation for learning and installing react is by reading the react documentaion.     
           </p>  
 
-        </article>
+              <h2>What is JSX and why do we use it in React. </h2>
+              
+              <p>JSX is a react syntax, jsx is used in defining react.
+                  If we remove jsx when defining react,
+                  it will tell us that react is not defined.
+
+                  In order to use JSX in react,we need to import react.
+
+              </p>
+              
+                <h4>Why do we <span>import</span> React from <span>react</span> in our files. </h4>
+        
+                <p>React is what defines jsx.</p>
+          
+          </article>
 
          
              
