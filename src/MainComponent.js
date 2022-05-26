@@ -22,7 +22,12 @@ export default function MainComponent() {
 
           <p className='main-content'>
                   React was originally created by Jordan
-                  Walke and was relased in 2013.
+                  Walke and was relased in 2013. <br />
+
+                  React has a syntax called jsx which defines how react is used.
+                  If we remove the syntax, it will tell us that react is not defined. <br />
+                  
+                  Recommendation for learning and installing react is by reading the react documentaion.
           </p>  
 
         </article>
